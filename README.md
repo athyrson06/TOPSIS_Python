@@ -1,5 +1,9 @@
 # TOPSIS-Python
 
+Extended version can be found in:
+https://gitlab.com/jamesfallon/topsis-python
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Shivanjan%20Chakravorty-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivanjan/)](https://www.linkedin.com/in/shivanjan/) [![Gmail Badge](https://img.shields.io/badge/-schakravorty846-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:schakravorty846@gmail.com)](mailto:schakravorty846@gmail.com) [![Github Badge](https://img.shields.io/github/followers/Glitchfix?label=Glitchfix&logo=github&style=plastic)](https://github.com/Glitchfix)
 
 Source code for TOPSIS optimization algorithm in python.
@@ -81,8 +85,7 @@ best_similarity  [0.61986802 0.38013198 0.24988645]
 rank_to_best_similarity  [3 2 1]
 ```
 
-Extended version can be found in:
-https://gitlab.com/jamesfallon/topsis-python
+
 
 ##### Resources: 
 [WikiPedia](https://en.wikipedia.org/wiki/TOPSIS)

@@ -81,6 +81,9 @@ best_similarity  [0.61986802 0.38013198 0.24988645]
 rank_to_best_similarity  [3 2 1]
 ```
 
+Extended version can be found in:
+https://gitlab.com/jamesfallon/topsis-python
+
 ##### Resources: 
 [WikiPedia](https://en.wikipedia.org/wiki/TOPSIS)
 [sample solution](http://www.jiem.org/index.php/jiem/article/view/573/498)
